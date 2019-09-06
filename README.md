@@ -1,4 +1,4 @@
-# mononoki
+# mononoki with turkish characters support
 #### a font for programming and code review
 
 for a closer look [http://madmalik.github.io/mononoki/](http://madmalik.github.io/mononoki/)
