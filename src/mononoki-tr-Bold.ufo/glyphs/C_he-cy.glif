@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che-cy" format="1">
+  <advance width="575"/>
+  <unicode hex="0427"/>
+  <outline>
+    <contour>
+      <point x="465" y="720" type="curve" smooth="yes"/>
+      <point x="430" y="720" type="line" smooth="yes"/>
+      <point x="408.022" y="720"/>
+      <point x="395" y="706.978"/>
+      <point x="395" y="685" type="curve" smooth="yes"/>
+      <point x="395" y="339.378" type="line"/>
+      <point x="354.186" y="336.857"/>
+      <point x="319.197" y="336"/>
+      <point x="297" y="336" type="curve" smooth="yes"/>
+      <point x="209.586" y="336"/>
+      <point x="180" y="365.344"/>
+      <point x="180" y="452" type="curve" smooth="yes"/>
+      <point x="180" y="685" type="line" smooth="yes"/>
+      <point x="180" y="706.474"/>
+      <point x="166.474" y="720"/>
+      <point x="145" y="720" type="curve" smooth="yes"/>
+      <point x="110" y="720" type="line" smooth="yes"/>
+      <point x="88.022" y="720"/>
+      <point x="75" y="706.978"/>
+      <point x="75" y="685" type="curve" smooth="yes"/>
+      <point x="75" y="452" type="line" smooth="yes"/>
+      <point x="75" y="302.943"/>
+      <point x="140.975" y="240"/>
+      <point x="297" y="240" type="curve" smooth="yes"/>
+      <point x="318.297" y="240"/>
+      <point x="353.419" y="240.857"/>
+      <point x="395" y="244.137" type="curve"/>
+      <point x="395" y="35" type="line" smooth="yes"/>
+      <point x="395" y="13.526"/>
+      <point x="408.526" y="0"/>
+      <point x="430" y="0" type="curve" smooth="yes"/>
+      <point x="465" y="0" type="line" smooth="yes"/>
+      <point x="486.474" y="0"/>
+      <point x="500" y="13.526"/>
+      <point x="500" y="35" type="curve" smooth="yes"/>
+      <point x="500" y="685" type="line" smooth="yes"/>
+      <point x="500" y="706.474"/>
+      <point x="486.474" y="720"/>
+    </contour>
+    <contour>
+      <point x="555" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="288" y="720" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-30 10:12:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

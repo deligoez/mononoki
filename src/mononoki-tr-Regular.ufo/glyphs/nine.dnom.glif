@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.dnom" format="1">
+  <advance width="250"/>
+  <outline>
+    <contour>
+      <point x="50.358" y="32.425" type="curve" smooth="yes"/>
+      <point x="47.266" y="18.095" type="line" smooth="yes"/>
+      <point x="44.247" y="5.981"/>
+      <point x="53.469" y="-6"/>
+      <point x="66.09" y="-9" type="curve"/>
+      <point x="82.16" y="-12"/>
+      <point x="98.535" y="-13"/>
+      <point x="114" y="-13" type="curve" smooth="yes"/>
+      <point x="195.592" y="-13"/>
+      <point x="262" y="37.651"/>
+      <point x="262" y="202" type="curve" smooth="yes"/>
+      <point x="262" y="307.8"/>
+      <point x="217.601" y="367"/>
+      <point x="135" y="367" type="curve" smooth="yes"/>
+      <point x="58.445" y="367"/>
+      <point x="16" y="324.556"/>
+      <point x="16" y="250" type="curve" smooth="yes"/>
+      <point x="16" y="186.444"/>
+      <point x="59.445" y="143"/>
+      <point x="125" y="143" type="curve" smooth="yes"/>
+      <point x="146.03" y="143"/>
+      <point x="169.455" y="146.438"/>
+      <point x="191.934" y="151.953" type="curve"/>
+      <point x="184.056" y="66.511"/>
+      <point x="153.442" y="46"/>
+      <point x="114" y="46" type="curve" smooth="yes"/>
+      <point x="102.503" y="46"/>
+      <point x="92.013" y="46.881"/>
+      <point x="79.437" y="49.796" type="curve"/>
+      <point x="66.661" y="51.87"/>
+      <point x="53.275" y="44.089"/>
+    </contour>
+    <contour>
+      <point x="135" y="308" type="curve" smooth="yes"/>
+      <point x="171.425" y="308"/>
+      <point x="191.833" y="284.406"/>
+      <point x="193.867" y="215.329" type="curve"/>
+      <point x="167.948" y="205.744"/>
+      <point x="146.577" y="202"/>
+      <point x="125" y="202" type="curve" smooth="yes"/>
+      <point x="99.863" y="202"/>
+      <point x="83" y="219.543"/>
+      <point x="83" y="250" type="curve" smooth="yes"/>
+      <point x="83" y="294.362"/>
+      <point x="96.651" y="308"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 13:07:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>
